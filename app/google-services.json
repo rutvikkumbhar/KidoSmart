@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031799373769",
+    "project_id": "kido-smart",
+    "storage_bucket": "kido-smart.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031799373769:android:6c49ae77192ff971ae7218",
+        "android_client_info": {
+          "package_name": "com.streetdog.kidosmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1omZCopDsB8PRV45WXYS1s0QE7RsOdPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
