@@ -5,11 +5,9 @@ import android.view.View;
 import android.widget.*;
 import androidx.appcompat.app.*;
 import androidx.appcompat.widget.Toolbar;
-
 import com.streetdog.kidosmart.Alphabtes_Modules.Alphabet_Home;
 import com.streetdog.kidosmart.Animals_Modules.Animal_Home;
 import com.streetdog.kidosmart.Numbers_Modules.Numbers_Home;
-
 import com.streetdog.kidosmart.Colors_Modules.Color_Home;
 import com.streetdog.kidosmart.Shapes_Modules.Shapes_Home;
 
