@@ -1,15 +1,15 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
+# Signing keys
+signing/
+*.jks
+*.keystore
+*.key
+
+# Build files
+app/build/
+app/debug/
+app/release/
+*.apk
+*.aab
+
+# Android Studio
+.idea/
