@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_number.png.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/number.png"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/layout_activity_numbers_home.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/layout/activity_numbers_home.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/layout_layout_toolbar.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/layout/layout_toolbar.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/layout_color_tile.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/layout/color_tile.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/layout_activity_animal_home.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/layout/activity_animal_home.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_animalicon.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/animalicon.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/layout_shape_tile.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/layout/shape_tile.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_color.png.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/color.png"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_quiz.png.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/quiz.png"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_border_radius.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/border_radius.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/layout_activity_flash_screen.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/layout/activity_flash_screen.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_line.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/line.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/layout_animal_tile.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/layout/animal_tile.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_shape.png.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/shape.png"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_baseline_play_arrow_24.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/baseline_play_arrow_24.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/layout_alphabet_tile.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/layout/alphabet_tile.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/layout_activity_shapes_home.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/layout/activity_shapes_home.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/layout_activity_alphabet_home.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/layout/activity_alphabet_home.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/layout_activity_color_home.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/layout/activity_color_home.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_animal.png.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/animal.png"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_baseline_view_week_24.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/baseline_view_week_24.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/xml_backup_rules.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/layout_number_tile.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/layout/number_tile.xml"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_appicon.jpg.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/appicon.jpg"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_alphabet.png.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/alphabet.png"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.streetdog.kidosmart.app-debug-36:/drawable_dark_background.xml.flat",
+        "source": "com.streetdog.kidosmart.app-main-38:/drawable/dark_background.xml"
+    }
+]

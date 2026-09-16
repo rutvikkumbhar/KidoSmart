@@ -10,6 +10,7 @@ import com.streetdog.kidosmart.Animals_Modules.Animal_Home;
 import com.streetdog.kidosmart.Numbers_Modules.Numbers_Home;
 import com.streetdog.kidosmart.Colors_Modules.Color_Home;
 import com.streetdog.kidosmart.Shapes_Modules.Shapes_Home;
+import com.streetdog.kidosmart.EdgeToEdgeHelper;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -18,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle bundle){
         super.onCreate(bundle);
         setContentView(R.layout.activity_main);
+        View toolbarContainer = findViewById(R.id.toolbar_container);
+        EdgeToEdgeHelper.applyTopInset(toolbarContainer);
 
         alphabet=findViewById(R.id.alphabet);
         number=findViewById(R.id.number);

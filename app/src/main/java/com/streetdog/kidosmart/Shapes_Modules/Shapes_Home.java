@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.*;
 import com.google.firebase.firestore.*;
 import com.streetdog.kidosmart.R;
 import java.util.ArrayList;
+import com.streetdog.kidosmart.EdgeToEdgeHelper;
 
 public class Shapes_Home extends AppCompatActivity {
 
@@ -16,7 +17,8 @@ public class Shapes_Home extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_shapes_home);
-
+        View toolbarContainer = findViewById(R.id.toolbar_container);
+        EdgeToEdgeHelper.applyTopInset(toolbarContainer);
         progressBar=findViewById(R.id.loading);
         progressBar.setVisibility(View.VISIBLE);
         recyclerView=findViewById(R.id.shape_view);

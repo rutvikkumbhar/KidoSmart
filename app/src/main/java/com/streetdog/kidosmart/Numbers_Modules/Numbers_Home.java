@@ -13,6 +13,7 @@ import com.google.firebase.firestore.Query;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
 import com.streetdog.kidosmart.R;
 import java.util.ArrayList;
+import com.streetdog.kidosmart.EdgeToEdgeHelper;
 
 public class Numbers_Home extends AppCompatActivity {
 
@@ -23,7 +24,8 @@ public class Numbers_Home extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_numbers_home);
-
+        View toolbarContainer = findViewById(R.id.toolbar_container);
+        EdgeToEdgeHelper.applyTopInset(toolbarContainer);
         loading=findViewById(R.id.loading);
         loading.setVisibility(View.VISIBLE);
         recyclerView=findViewById(R.id.number_view);

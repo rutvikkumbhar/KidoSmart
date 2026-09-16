@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#FF7043</color>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#E64A19</color>
+    <color name="grey">#FCE7C8</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="image_background">#FFFFF3E0</color>
+    <color name="my_dark_primary">#FF5722</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">KidoSmart</string>
+    <string name="gcm_defaultSenderId" translatable="false">1031799373769</string>
+    <string name="google_api_key" translatable="false">AIzaSyA1omZCopDsB8PRV45WXYS1s0QE7RsOdPE</string>
+    <string name="google_app_id" translatable="false">1:1031799373769:android:6c49ae77192ff971ae7218</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA1omZCopDsB8PRV45WXYS1s0QE7RsOdPE</string>
+    <string name="google_storage_bucket" translatable="false">kido-smart.firebasestorage.app</string>
+    <string name="project_id" translatable="false">kido-smart</string>
+    <style name="Base.Theme.KidoSmart" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.KidoSmart" parent="Base.Theme.KidoSmart"/>
+</resources>

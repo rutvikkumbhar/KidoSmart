@@ -7,7 +7,7 @@ import androidx.recyclerview.widget.*;
 import com.google.firebase.firestore.*;
 import com.streetdog.kidosmart.R;
 import java.util.ArrayList;
-
+import com.streetdog.kidosmart.EdgeToEdgeHelper;
 public class Animal_Home extends AppCompatActivity {
 
     ProgressBar loading;
@@ -16,7 +16,8 @@ public class Animal_Home extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_animal_home);
-
+        View toolbarContainer = findViewById(R.id.toolbar_container);
+        EdgeToEdgeHelper.applyTopInset(toolbarContainer);
         loading=findViewById(R.id.loading);
         loading.setVisibility(View.VISIBLE);
         recyclerView=findViewById(R.id.animal_view);

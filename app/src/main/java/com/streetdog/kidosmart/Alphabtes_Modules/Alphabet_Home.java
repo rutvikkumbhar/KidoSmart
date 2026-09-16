@@ -8,6 +8,7 @@ import androidx.recyclerview.widget.*;
 import com.google.firebase.firestore.*;
 import com.streetdog.kidosmart.R;
 import java.util.ArrayList;
+import com.streetdog.kidosmart.EdgeToEdgeHelper;
 
 public class Alphabet_Home extends AppCompatActivity {
     ArrayList<Alphabet_Model> arrayList=new ArrayList<>();
@@ -17,7 +18,8 @@ public class Alphabet_Home extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_alphabet_home);
-
+        View toolbarContainer = findViewById(R.id.toolbar_container);
+        EdgeToEdgeHelper.applyTopInset(toolbarContainer);
         recyclerView=findViewById(R.id.alphabet_view);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         this.loading=findViewById(R.id.loading);
